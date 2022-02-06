@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2014C2A427AF519000EFD2F3 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2014C2A327AF519000EFD2F3 /* Buttons.swift */; };
 		2014C2A627AF5A1900EFD2F3 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2014C2A527AF5A1900EFD2F3 /* Images.swift */; };
+		20C39B1A27B0718A00AAF06F /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C39B1927B0718A00AAF06F /* TextFields.swift */; };
 		20D0882427AB32D60061772D /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D0882327AB32D60061772D /* PlatziApp.swift */; };
 		20D0882627AB32D60061772D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D0882527AB32D60061772D /* ContentView.swift */; };
 		20D0882827AB32D70061772D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20D0882727AB32D70061772D /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		2014C2A327AF519000EFD2F3 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		2014C2A527AF5A1900EFD2F3 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		20C39B1927B0718A00AAF06F /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
 		20D0882027AB32D60061772D /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D0882327AB32D60061772D /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		20D0882527AB32D60061772D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				20F2C97E27AB6B6A007459C4 /* TextMod.swift */,
 				2014C2A327AF519000EFD2F3 /* Buttons.swift */,
 				2014C2A527AF5A1900EFD2F3 /* Images.swift */,
+				20C39B1927B0718A00AAF06F /* TextFields.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				2014C2A627AF5A1900EFD2F3 /* Images.swift in Sources */,
 				20D0882427AB32D60061772D /* PlatziApp.swift in Sources */,
 				2014C2A427AF519000EFD2F3 /* Buttons.swift in Sources */,
+				20C39B1A27B0718A00AAF06F /* TextFields.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
