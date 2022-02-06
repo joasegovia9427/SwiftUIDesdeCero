@@ -14,7 +14,8 @@ struct PlatziApp: App {
 //            ContentView()  // aca se indica cual sera la pantalla de arranque de la app, o sea una instancia de ContenView()
 //            TextMod()
 //            Buttons()
-            Images()
+//            Images()
+            TextFields()
         }
     }
 }
