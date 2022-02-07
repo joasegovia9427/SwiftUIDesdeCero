@@ -3,7 +3,7 @@
 //  Platzi
 //
 //  Created by Joaquin Segovia on 6/2/22.
-//.
+//..
 
 import SwiftUI
 
