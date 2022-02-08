@@ -15,7 +15,10 @@ struct PlatziApp: App {
 //            TextMod()
 //            Buttons()
 //            Images()
-            TextFields()
+//            TextFields()
+//            Dividers()
+//            HstackVstackSpacer()
+            HstackVstackSpacerReto()
         }
     }
 }

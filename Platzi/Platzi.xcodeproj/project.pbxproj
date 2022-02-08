@@ -10,6 +10,9 @@
 		2014C2A427AF519000EFD2F3 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2014C2A327AF519000EFD2F3 /* Buttons.swift */; };
 		2014C2A627AF5A1900EFD2F3 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2014C2A527AF5A1900EFD2F3 /* Images.swift */; };
 		20C39B1A27B0718A00AAF06F /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C39B1927B0718A00AAF06F /* TextFields.swift */; };
+		20C39B1C27B1EF8800AAF06F /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C39B1B27B1EF8800AAF06F /* Dividers.swift */; };
+		20C39B1E27B1F69F00AAF06F /* HstackVstackSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C39B1D27B1F69F00AAF06F /* HstackVstackSpacer.swift */; };
+		20C39B2027B1FEA300AAF06F /* HstackVstackSpacerReto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C39B1F27B1FEA300AAF06F /* HstackVstackSpacerReto.swift */; };
 		20D0882427AB32D60061772D /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D0882327AB32D60061772D /* PlatziApp.swift */; };
 		20D0882627AB32D60061772D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D0882527AB32D60061772D /* ContentView.swift */; };
 		20D0882827AB32D70061772D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20D0882727AB32D70061772D /* Assets.xcassets */; };
@@ -21,6 +24,9 @@
 		2014C2A327AF519000EFD2F3 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		2014C2A527AF5A1900EFD2F3 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		20C39B1927B0718A00AAF06F /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		20C39B1B27B1EF8800AAF06F /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
+		20C39B1D27B1F69F00AAF06F /* HstackVstackSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstackSpacer.swift; sourceTree = "<group>"; };
+		20C39B1F27B1FEA300AAF06F /* HstackVstackSpacerReto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstackSpacerReto.swift; sourceTree = "<group>"; };
 		20D0882027AB32D60061772D /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D0882327AB32D60061772D /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		20D0882527AB32D60061772D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,6 +78,9 @@
 				2014C2A327AF519000EFD2F3 /* Buttons.swift */,
 				2014C2A527AF5A1900EFD2F3 /* Images.swift */,
 				20C39B1927B0718A00AAF06F /* TextFields.swift */,
+				20C39B1B27B1EF8800AAF06F /* Dividers.swift */,
+				20C39B1D27B1F69F00AAF06F /* HstackVstackSpacer.swift */,
+				20C39B1F27B1FEA300AAF06F /* HstackVstackSpacerReto.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -166,7 +175,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				20F2C97F27AB6B6A007459C4 /* TextMod.swift in Sources */,
+				20C39B1C27B1EF8800AAF06F /* Dividers.swift in Sources */,
 				20D0882627AB32D60061772D /* ContentView.swift in Sources */,
+				20C39B1E27B1F69F00AAF06F /* HstackVstackSpacer.swift in Sources */,
+				20C39B2027B1FEA300AAF06F /* HstackVstackSpacerReto.swift in Sources */,
 				2014C2A627AF5A1900EFD2F3 /* Images.swift in Sources */,
 				20D0882427AB32D60061772D /* PlatziApp.swift in Sources */,
 				2014C2A427AF519000EFD2F3 /* Buttons.swift in Sources */,
