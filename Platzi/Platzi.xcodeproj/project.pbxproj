@@ -18,6 +18,7 @@
 		20D0882827AB32D70061772D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20D0882727AB32D70061772D /* Assets.xcassets */; };
 		20D0882B27AB32D70061772D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20D0882A27AB32D70061772D /* Preview Assets.xcassets */; };
 		20F2C97F27AB6B6A007459C4 /* TextMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F2C97E27AB6B6A007459C4 /* TextMod.swift */; };
+		20FD272827B3223500DBBA9A /* ZstackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FD272727B3223500DBBA9A /* ZstackPadding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		20F2C97C27AB4602007459C4 /* Estructura.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Estructura.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		20F2C97D27AB61BB007459C4 /* ComputerProperties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ComputerProperties.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		20F2C97E27AB6B6A007459C4 /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
+		20FD272727B3223500DBBA9A /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				20C39B1B27B1EF8800AAF06F /* Dividers.swift */,
 				20C39B1D27B1F69F00AAF06F /* HstackVstackSpacer.swift */,
 				20C39B1F27B1FEA300AAF06F /* HstackVstackSpacerReto.swift */,
+				20FD272727B3223500DBBA9A /* ZstackPadding.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				20D0882627AB32D60061772D /* ContentView.swift in Sources */,
 				20C39B1E27B1F69F00AAF06F /* HstackVstackSpacer.swift in Sources */,
 				20C39B2027B1FEA300AAF06F /* HstackVstackSpacerReto.swift in Sources */,
+				20FD272827B3223500DBBA9A /* ZstackPadding.swift in Sources */,
 				2014C2A627AF5A1900EFD2F3 /* Images.swift in Sources */,
 				20D0882427AB32D60061772D /* PlatziApp.swift in Sources */,
 				2014C2A427AF519000EFD2F3 /* Buttons.swift in Sources */,

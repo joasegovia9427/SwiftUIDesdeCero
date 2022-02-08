@@ -18,7 +18,8 @@ struct PlatziApp: App {
 //            TextFields()
 //            Dividers()
 //            HstackVstackSpacer()
-            HstackVstackSpacerReto()
+//            HstackVstackSpacerReto()
+            ZstackPadding()
         }
     }
 }
