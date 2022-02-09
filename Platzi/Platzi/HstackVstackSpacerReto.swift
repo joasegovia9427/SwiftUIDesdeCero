@@ -26,7 +26,7 @@ struct HstackVstackSpacerReto: View {
             Text("2").border(Color.black)
             Text("3").border(Color.black)
             
-            Spacer().frame(height: 100)
+            Spacer().frame(height: 10)
             
             HStack(alignment: .top){
                 Text("A").frame(width: 100, height: 100).border(Color.black)
