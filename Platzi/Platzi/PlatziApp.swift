@@ -21,7 +21,8 @@ struct PlatziApp: App {
 //            HstackVstackSpacerReto()
 //            ZstackPadding()
 //            TabViews()
-            Navigations()
+//            Navigations()
+            Players()
         }
     }
 }
