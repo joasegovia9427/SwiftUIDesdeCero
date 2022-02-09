@@ -20,7 +20,8 @@ struct PlatziApp: App {
 //            HstackVstackSpacer()
 //            HstackVstackSpacerReto()
 //            ZstackPadding()
-            TabViews()
+//            TabViews()
+            Navigations()
         }
     }
 }
